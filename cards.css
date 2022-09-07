@@ -1,0 +1,22 @@
+body{
+  height: 900px;
+  background: linear-gradient( #82CE73,#4DA150, #3E5C3F);
+}
+
+button{
+  font-size: 2em;
+  position: absolute;
+  left: 40%;
+}
+div{
+  position: absolute;
+
+}
+
+#cardsArea{
+
+  position: absolute;
+  top: 100px;
+  height: 100%;
+  width:  100%;
+}
